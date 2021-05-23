@@ -1,7 +1,7 @@
 # World Time App
 
 This app shows the correct local time in cities worldwide.
-It is a crossplatform app which runs on both android and ios.
+It is a crossplatform app which runs on both android and IOS.
 
 ## Getting Started
 
