@@ -1,6 +1,6 @@
-# world_time
+# World Time App
 
-A new Flutter project.
+This app shows the correct local time in cities worldwide
 
 ## Getting Started
 
